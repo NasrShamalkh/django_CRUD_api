@@ -24,7 +24,7 @@ This project uses MySql as its main database
 
 2- change the database configration to your personal configs ( django_api => settings.py => DATABASE => change 'USER', 'PASSWORD')
 
-# Now all you need to do is to go to the terminal in the project's root and type: python manage.py runserver  (now you have a running server)
+# After cloning, all you need to do is to go to the terminal in the project's root and type: python manage.py runserver  (now you have a running server)
 
 Methods	Urls	Actions
 
