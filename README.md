@@ -22,7 +22,10 @@ This project uses MySql as its main database
 
 1- have all the necessary packages installed
 
-2- change the database configration to your personal configs ( django_api => settings.py => DATABASE => change 'USER', 'PASSWORD')
+2- Create a database in the mySql command line (CREATE DATABASE dbName) but be sure to add the name to the DATABASE Configration in the settings file (if changed (I already put it to "django_api"))
+
+3- change the database configration to your personal configs ( django_api => settings.py => DATABASE => change 'USER', 'PASSWORD')
+
 
 # After cloning, all you need to do is to go to the terminal in the project's root and type: python manage.py runserver  (now you have a running server)
 
