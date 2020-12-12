@@ -13,7 +13,7 @@ This project uses MySql as its main database
 
 - django
 
-- mysqlclinet
+- mysqlclient
 
 - djangorestframework
 
